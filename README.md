@@ -11,9 +11,9 @@
 ### :file_folder:[某电商平台针对优化落地页设计的AB测试](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E6%9F%90%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E9%92%88%E5%AF%B9%E4%BC%98%E5%8C%96%E8%90%BD%E5%9C%B0%E9%A1%B5%E8%AE%BE%E8%AE%A1%E7%9A%84AB%E6%B5%8B%E8%AF%95)
 - 某电商公司希望通过改进落地页设计来提高转化率，需借助AB测试以确保新页面的效果能够将转化率从13%提高到15%
 ### :file_folder:[波士顿租房系统数据库设计及可视化分析](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Final-Project)
-- 负责系统需求分析，设计实体及逻辑结构，绘制E-R图并使用SQL搭建数据库，制作Tableau交互式数据面板以呈现租客画像、房型热度等
+- 分析系统需求，设计实体及逻辑结构，绘制E-R图并使用SQL搭建数据库，制作Tableau交互式数据面板以呈现租客画像、房型热度等
 ### :file_folder:[基于并行机器学习的在线支付欺诈检测](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Final-Project)
-- 利用并行计算（Multiprocessing、Dask、Multiple-GPU/CPU）加速
+- 利用并行计算方法（Multiprocessing、Dask、Multiple-GPU/CPU）加速数据处理、ML算法，对636w在线支付数据进行欺诈检测
 
 
 
