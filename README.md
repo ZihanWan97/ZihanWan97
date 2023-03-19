@@ -20,7 +20,8 @@
 ## Other Achievements:
 #### :blue_book:[客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
 - 主要负责撰写第四章-客服中心智能化产业现状
-#### [Machine Learning Specialization-Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/A28LEUQUVJSN)
-#### [Google Data Analytics-Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/4L7T7X6MDNTF)
-#### [SQL - MySQL for Data Analytics and Business Intelligence-Udemy](https://www.udemy.com/certificate/UC-f45692c5-8ea2-44fa-a523-34650bf4d790/)
-#### [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-0e55b964-b56c-47de-b5a2-4e30bba30be5/)
+#### :page_facing_up:在线课程证书：
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/A28LEUQUVJSN)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/4L7T7X6MDNTF)
+- [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-f45692c5-8ea2-44fa-a523-34650bf4d790/)
+- [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-0e55b964-b56c-47de-b5a2-4e30bba30be5/)
