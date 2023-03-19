@@ -18,5 +18,5 @@
 - 利用并行计算方法（Multiprocessing、Dask、Multiple-GPU/CPU）加速数据处理、ML算法，对636w在线支付数据进行欺诈检测
 
 ## Other Achievements:
-#### [客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
+#### :blue_book:[客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
 - 主要负责撰写第四章-客服中心智能化产业现状
