@@ -7,7 +7,7 @@
 #### :convenience_store:[基于集成算法融合模型的电商订单异常检测](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E5%9F%BA%E4%BA%8E%E9%9B%86%E6%88%90%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9B%BD%E7%BE%8E%E7%94%B5%E5%95%86%E8%AE%A2%E5%8D%95%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B)
 - 利用该电商平台在2013年内的13w真实交易数据，对各订单进行风险评估并实现对异常订单的识别检测，以维护平台交易环境
 #### 	:chart_with_downwards_trend:[某国际电商平台用户支付转化分析](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E6%9F%90%E5%9B%BD%E9%99%85%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%94%A8%E6%88%B7%E6%94%AF%E4%BB%98%E8%BD%AC%E5%8C%96%E5%88%86%E6%9E%90)
-- 由平台GMV持续下降定位至用户下单转化率问题，基于用户属性及行为数据，探索下单转化率下降的可能原因，并通过算法模型辅助判断优化方向，提出提高下单转化率的建议
+- 由平台GMV持续下降定位至用户下单转化率下降问题，基于用户属性及行为数据，探索转化率下降原因，并通过算法模型辅助判断优化方向，提出提高下单转化率的建议
 #### :clipboard:[某电商平台针对优化落地页设计的AB测试](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E6%9F%90%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E9%92%88%E5%AF%B9%E4%BC%98%E5%8C%96%E8%90%BD%E5%9C%B0%E9%A1%B5%E8%AE%BE%E8%AE%A1%E7%9A%84AB%E6%B5%8B%E8%AF%95)
 - 某电商公司希望通过改进落地页设计来提高转化率，需借助AB测试以确保新页面的效果能够将转化率从13%提高到15%
 #### :houses:[波士顿租房系统数据库设计及可视化分析](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Final-Project)
