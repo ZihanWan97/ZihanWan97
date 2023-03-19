@@ -12,7 +12,8 @@
 - 某电商公司希望通过改进落地页设计来提高转化率，需借助AB测试以确保新页面的效果能够将转化率从13%提高到15%
 ### :file_folder:[波士顿租房系统数据库设计及可视化分析](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Final-Project)
 - 负责系统需求分析，设计实体及逻辑结构，绘制E-R图并使用SQL搭建数据库，制作Tableau交互式数据面板以呈现租客画像、房型热度等
-
+### :file_folder:[基于并行机器学习的在线支付欺诈检测](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Final-Project)
+- 利用并行计算（Multiprocessing、Dask、Multiple-GPU/CPU）加速
 
 
 
