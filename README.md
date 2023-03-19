@@ -21,7 +21,9 @@
 #### :blue_book:[客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
 - 主要负责撰写第四章-客服中心智能化产业现状
 #### :page_facing_up:在线课程证书：
-- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/A28LEUQUVJSN)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/4L7T7X6MDNTF)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/A28LEUQUVJSN)
+- [Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-668a3841-bfd4-47cc-8e8d-c6691e939f02/)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-3a13dd19-6ed5-4a24-87a0-66756ce4dc89/)
 - [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-f45692c5-8ea2-44fa-a523-34650bf4d790/)
 - [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-0e55b964-b56c-47de-b5a2-4e30bba30be5/)
