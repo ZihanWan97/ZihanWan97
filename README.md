@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Zihan(Eva) Wan.   
+
 ## Here are my Data Analysis/Data Science/Database Projects:
+
 #### :convenience_store:[基于集成算法融合模型的电商订单异常检测](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E5%9F%BA%E4%BA%8E%E9%9B%86%E6%88%90%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9B%BD%E7%BE%8E%E7%94%B5%E5%95%86%E8%AE%A2%E5%8D%95%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B)
 - 利用该电商平台在2013年内的13w真实交易数据，对各订单进行风险评估并实现对异常订单的识别检测，以维护平台交易环境
 #### 	:chart_with_downwards_trend:[某国际电商平台用户支付转化分析](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E6%9F%90%E5%9B%BD%E9%99%85%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%94%A8%E6%88%B7%E6%94%AF%E4%BB%98%E8%BD%AC%E5%8C%96%E5%88%86%E6%9E%90)
@@ -15,5 +17,6 @@
 #### :credit_card:[基于并行机器学习的在线支付欺诈检测](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Final-Project)
 - 利用并行计算方法（Multiprocessing、Dask、Multiple-GPU/CPU）加速数据处理、ML算法，对636w在线支付数据进行欺诈检测
 
-
-
+## Other Achievements:
+#### [客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
+- 主要负责撰写第四章-客服中心智能化产业现状
