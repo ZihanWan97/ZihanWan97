@@ -16,7 +16,7 @@
 - 分析系统需求，设计实体及逻辑结构，绘制E-R图并使用SQL搭建数据库，制作Tableau交互式数据面板以呈现租客画像、房型热度等
 #### :credit_card:[基于并行机器学习的在线支付欺诈检测](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Final-Project)
 - 利用并行计算方法（Multiprocessing、Dask、Multiple-GPU/CPU）加速数据处理、ML算法，对636w在线支付数据进行欺诈检测
-
+-----------------------------
 ## Other Achievements:
 #### :blue_book:[客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
 - 主要负责撰写第四章-客服中心智能化产业现状
