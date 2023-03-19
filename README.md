@@ -1,4 +1,5 @@
-### Hi there 👋 Welcome to my Github profile~
+# Hi there 👋 I'm Zihan(Eva) Wan. Welcome to my Github profile!
+## Here are some of my data analysis/data science projects:
 ### :file_folder:[DC竞赛：模拟经营类手游用户付费行为预测](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/DC%E7%AB%9E%E8%B5%9B%EF%BC%9A%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5%E7%B1%BB%E6%89%8B%E6%B8%B8%E7%94%A8%E6%88%B7%E4%BB%98%E8%B4%B9%E8%A1%8C%E4%B8%BA%E9%A2%84%E6%B5%8B)  
 - 利用玩家注册前7日的行为数据，预测其45日内的付费金额；旨在运行前期估算用户价值，为游戏运营方提供精准营销的优化策略
 ### :file_folder:[Kaggle竞赛：汽车保险司机索赔行为预测](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/Kaggle%E7%AB%9E%E8%B5%9B%EF%BC%9A%E6%B1%BD%E8%BD%A6%E4%BF%9D%E9%99%A9%E5%8F%B8%E6%9C%BA%E7%B4%A2%E8%B5%94%E8%A1%8C%E4%B8%BA%E9%A2%84%E6%B5%8B)
