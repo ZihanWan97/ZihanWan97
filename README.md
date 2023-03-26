@@ -21,7 +21,7 @@
 #### :blue_book:[客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
 - 参与搭建写作框架，主要负责智能客服产业应用现状的研究（对应正式版报告的第四章-客服中心智能化产业现状）    
 #### :green_book:自然语言处理技术前瞻与产业融合研究报告（2020年）
-- 带领4人团队，调研国内外300余家NLP企业，调研内容包括技术（企业类型/应用场景/基础研究）、业务（主营业务/业务方向）等  
+- 带领4人团队，调研国内外300余家NLP企业，调研内容围绕技术和业务两方面  
 - 主导报告撰写（总计4万+字），包括NLP研究背景、技术发展、产品应用、产业链条、未来规划五大章节  
 #### :bookmark_tabs:报告展示：
 <img src="https://user-images.githubusercontent.com/103607344/227637282-fd54369b-8aa9-4c20-9fe7-6adcb14b2704.png" width = "15%" height = "15%" />  <img src="https://user-images.githubusercontent.com/103607344/227634400-672d9b69-d2be-4027-aaf6-05a74d357e3c.png" width = "15%" height = "15%" />  
