@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Zihan(Eva) Wan. Here is my portfolio！
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="zihanwan97" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/zihanwan97?trk=profile-badge">Zihan Wan</a></div>
+              
 ## 数据项目:
 
 #### :convenience_store:[基于集成算法融合模型的电商订单异常检测](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E5%9F%BA%E4%BA%8E%E9%9B%86%E6%88%90%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9B%BD%E7%BE%8E%E7%94%B5%E5%95%86%E8%AE%A2%E5%8D%95%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B)
