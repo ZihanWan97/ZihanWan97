@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Zihan(Eva) Wan. Here is my portfolio！
               
-## 数据项目:
+## 数据项目（Python+SQL）:
 
 #### :convenience_store:[基于集成算法融合模型的电商订单异常检测](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E5%9F%BA%E4%BA%8E%E9%9B%86%E6%88%90%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9B%BD%E7%BE%8E%E7%94%B5%E5%95%86%E8%AE%A2%E5%8D%95%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B)
 - 利用该电商平台在2013年内的13w真实交易数据，对各订单进行风险评估并实现对异常订单的识别检测，以维护平台交易环境
@@ -17,6 +17,13 @@
 #### :credit_card:[基于并行机器学习的在线支付欺诈检测](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Final-Project)
 - 利用并行计算方法（Multiprocessing、Dask、Multiple-GPU/CPU）加速数据处理、ML算法，对636w在线支付数据进行欺诈检测
 -----------------------------
+
+## 开发项目（Java）:
+
+#### :film_projector:[电影工厂系统设计与开发](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Final-Project)
+- 通过NetBeans搭建系统，主要负责前端页面、邮件发送、数据统计部分的设计及代码
+----------------------------
+
 ## 研究报告:
 #### :blue_book:[客服中心智能化技术和应用研究报告（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220114_395564.htm)
 - 参与搭建写作框架，主要负责智能客服产业应用现状的研究（对应正式版报告的第四章-客服中心智能化产业现状）    
