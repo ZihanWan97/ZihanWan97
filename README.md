@@ -12,6 +12,8 @@
 - 利用玩家注册前7日的行为数据，预测其45日内的付费金额；旨在运行前期估算用户价值，为游戏运营方提供精准营销的优化策略
 #### :car:[Kaggle竞赛：汽车保险司机索赔行为预测](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/Kaggle%E7%AB%9E%E8%B5%9B%EF%BC%9A%E6%B1%BD%E8%BD%A6%E4%BF%9D%E9%99%A9%E5%8F%B8%E6%9C%BA%E7%B4%A2%E8%B5%94%E8%A1%8C%E4%B8%BA%E9%A2%84%E6%B5%8B)
 - Porto Seguro保险公司希望对投保司机信息（150w匿名数据）进行风险识别，更准确地预测他们是否会发起汽车保险索赔
+#### :woman_teacher:[在线教育广告投放渠道效果评估及聚类分析](https://github.com/ZihanWan97/Data-Analysis-Projects/tree/main/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE%E6%B8%A0%E9%81%93%E6%95%88%E6%9E%9C%E8%AF%84%E4%BC%B0%E5%8F%8A%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90)
+- 利用某在线教育机构公开的2020年6-8月广告投放数据，对889个渠道进行聚类并评估投放效果，协助营销选择
 #### :houses:[波士顿租房系统数据库设计及可视化分析](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Final-Project)
 - 分析系统需求，设计实体及逻辑结构，绘制E-R图并使用SQL搭建数据库，制作Tableau交互式数据面板以呈现租客画像、房型热度等
 #### :credit_card:[基于并行机器学习的在线支付欺诈检测](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Final-Project)
